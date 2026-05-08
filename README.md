@@ -73,14 +73,14 @@ If you find any issues or need custom features, feel free to reach out!
 ---
 
 ## 👤 **Credits**
-**Developer:** **MahMUD**
+**Developer:** **Saan**
 **Project Name:** Hinata-Bot-V3  
 
 <p align="center">
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
   <br>
-  <b>ARIYAN MAHMUD</b>
+  <bSiam Ahmed Saan</b>
 </p>
 
 ---
-<p align="center">© 2024 Mahmud Official. All Rights Reserved.</p>
+<p align="center">© 2024 Saan Official. All Rights Reserved.</p>
